@@ -8,7 +8,7 @@ function Header() {
                 <Link href={"/"}>
                     <img
                         className={"w-44 object-contain cursor-pointer"}
-                        src={""}
+                        src={"https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png"}
                         alt={"Logo"}
                     />
                 </Link>
