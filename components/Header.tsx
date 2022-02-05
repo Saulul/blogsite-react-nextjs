@@ -19,7 +19,9 @@ function Header() {
                 </div>
             </div>
             <div className={"flex items-center space-x-5 text-green-600"}>
-                <h3>Sign In</h3>
+                <a href="https://blogsite-react-nextjs.sanity.studio/">
+                    <h3>Sign In</h3>
+                </a>
                 <h3 className={"border px-4 py-1 rounded-full border-green-600"}>Get Started</h3>
             </div>
         </header>
